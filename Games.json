@@ -1,0 +1,11 @@
+[
+  {
+    "GameName": "SilentLife",
+    "LinuxExtractPath": "Home/XSGames/SilentLife",
+    "WindowsExtractPath": "C:/XSGames/SilentLife",
+    "GameBanner": "https://raw.githubusercontent.com/username/repo/branch/banners/game1.png",
+    "GameDownloadZipUrl": "https://raw.githubusercontent.com/username/repo/branch/zips/game1.zip",
+    "LinuxMainExecutable": "SilentLife.x86_64",
+    "WindowsMainExecutable": "SilentLife.exe"
+  }
+]
