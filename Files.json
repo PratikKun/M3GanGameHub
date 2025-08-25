@@ -1,1 +1,6 @@
-
+{
+  {
+    GameName = "Dafault",
+    GameJson = "https://git/game.json"
+  }
+}
