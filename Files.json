@@ -1,6 +1,9 @@
-{
+[
   {
-    GameName = "Dafault",
-    GameJson = "https://git/game.json"
+    "LinuxExtractPath": "Home/XS/YouTubeVidDownloader",
+    "WindowsExtractPath": "C:/MyCompany/Game1",
+    "GameName": "Space Runner",
+    "GameJson": "https://raw.githubusercontent.com/username/repo/branch/Game1.json",
+    "GameBanner": "https://raw.githubusercontent.com/username/repo/branch/banners/game1.png"
   }
-}
+]
